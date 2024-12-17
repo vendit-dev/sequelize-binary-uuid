@@ -1,5 +1,5 @@
 {
-  "name": "sequelize-binary-uuid",
+  "name": "@vendit-dev/sequelize-binary-uuid",
   "version": "1.1.0",
   "description": "Makes it easy to implement binary(16) uuid's into Sequelize projects.",
   "main": "dist/index.js",
