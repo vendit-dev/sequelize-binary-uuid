@@ -7,4 +7,4 @@
  *
  * @private
  */function inherits(a,b){// Instance (prototype) methods
-_util.default.inherits(a,b),Object.assign(a,b)}var _default=inherits;exports.default=_default;
+_util.default.inherits(a,b),Object.assign(a,b)}var _default=exports.default=inherits;
